@@ -1,2 +1,2 @@
-# Hagen-351-Python
- Colab Versions of Python Handouts
+# 351-Python
+Python tutorials for CHEM 351.
